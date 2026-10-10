@@ -15,9 +15,9 @@
   Cari GIF Mushoku Tensei / Eighty-Six / Frieren di Giphy atau Tenor,
   salin link gambarnya (berakhiran .gif), lalu hapus tanda komentar
   di sekitar baris di bawah dan ganti URL-nya.
-
-  <img src="GANTI_DENGAN_URL_GIF_ANIME" width="400" alt="Anime GIF" />
 -->
+  <img src="https://tenor.com/view/mushoku-tensei-gif-19911957" alt="Anime GIF" />
+
 
 </div>
 
