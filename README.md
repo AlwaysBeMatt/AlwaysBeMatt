@@ -2,21 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=220&section=header&text=AlwaysBeMatt&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Anime%20%7C%20Coding%20%7C%20Gaming&descAlignY=58&descSize=20&animation=fadeIn" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+I'm+AlwaysBeMatt;D3+Teknologi+Informasi+Student;Still+Learning%2C+Still+Leveling+Up;Web+%26+Mobile+Developer+in+the+making" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+I'm+Matt;D3+Teknologi+Informasi+Student;Still+Learning%2C+Still+Leveling+Up;Web+%26+Mobile+Developer+in+the+making" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlwaysBeMatt&label=Profile%20Views&color=1f6feb&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/AlwaysBeMatt?style=for-the-badge&logo=github&color=58a6ff&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/AlwaysBeMatt?style=for-the-badge&logo=github&color=f2cc60&labelColor=0d1117)
 
-<!--
-  GIF ANIME (opsional)
-  Cari GIF Mushoku Tensei / Eighty-Six / Frieren di Giphy atau Tenor,
-  salin link gambarnya (berakhiran .gif), lalu hapus tanda komentar
-  di sekitar baris di bawah dan ganti URL-nya.
--->
+
+
   <img src="https://media1.tenor.com/m/kWGX4AZkn24AAAAd/mushoku-tensei.gif" alt="Anime GIF" />
+  <img src="https://media1.tenor.com/m/wA8TRoy6bQoAAAAd/roxy-migurdia-mushoku-tensei.gif" alt="Roxy GIF" />
 
 
 </div>
@@ -38,13 +34,13 @@
 <td width="40%" align="center">
 
 ```text
-+----------------------+
-|  NAME   : Matt       |
-|  CLASS  : Developer  |
-|  LEVEL  : Newbie     |
-|  GUILD  : D3 TI      |
-|  STATUS : Learning   |
-+----------------------+
+
+  NAME   : Matt       
+  CLASS  : Developer  
+  LEVEL  : Newbie     
+  GUILD  : D3 TI      
+  STATUS : Learning   
+
 ```
 
 </td>
