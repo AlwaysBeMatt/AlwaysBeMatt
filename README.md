@@ -6,7 +6,6 @@
 
 ### こんにちは！I'm AlwaysBeMatt 👋
 
-*“A developer's journey is just like an anime adventure.”*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AlwaysBeMatt&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
@@ -14,15 +13,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 Mahasiswa D3 Teknologi Informasi
-- 💻 Tertarik pada Web Development dan Mobile Development
-- 🎮 Gamer yang menikmati dunia gaming dan anime
-- 🌱 Selalu belajar teknologi dan skill baru
-- ⚡ Motto: *Keep learning, keep building, keep leveling up!*
+-  Mahasiswa D3 Teknologi Informasi
+-  Tertarik pada Web Development dan Mobile Development
+-  Gamer yang menikmati dunia gaming dan anime
 
-## ⚔️ My Tech Stack
+##  My Tech Stack
 
 <div align="center">
 
@@ -38,24 +35,14 @@
 
 </div>
 
-## 🎌 Anime & Gaming
+##  TOP Anime & Gaming
 
-- 🍥 Naruto
-- ☠️ One Piece
-- ⚔️ Attack on Titan
-- 🔥 Jujutsu Kaisen
-- 🎮 Valorant, Minecraft & Roblox
-
-*Anime gives me inspiration, coding gives me a way to create.*
+-  Mushoku tensei
+- 86 Eigthy six
+- Frieren
+- Valorant, Minecraft & Roblox
 
 ## 🚀 Current Adventures
-
-| Project | Description |
-|---|---|
-| 🏫 School Website | Website sekolah menggunakan Spring Boot |
-| 📱 Flutter Apps | Belajar membuat aplikasi Android |
-| 🌐 Web Development | Membangun aplikasi dengan Laravel |
-| 🎮 Game Development | Mengeksplorasi pengembangan game Roblox |
 
 ## 📊 GitHub Stats
 
@@ -77,7 +64,6 @@
 >
 > *It's about becoming stronger every day."*
 
-**🔥 Train your skills. Build your dreams. Become legendary. 🔥**
 
 </div>
 
@@ -85,10 +71,10 @@
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile! ✨
+### ✨ Thanks for visiting my profile! 
 
 *Feel free to explore my repositories and follow my journey.*
 
-**またね！See you in the next adventure!** 🌙
+**またね！See you in the next adventure!** 
 
 </div>
