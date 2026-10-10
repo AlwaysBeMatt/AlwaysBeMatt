@@ -7,8 +7,6 @@
 ### こんにちは！I'm AlwaysBeMatt 👋
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlwaysBeMatt&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
 
 ---
