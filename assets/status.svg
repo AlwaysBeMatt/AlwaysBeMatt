@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="210" viewBox="0 0 420 210" role="img" aria-label="Status card">
+  <rect x="1" y="1" width="418" height="208" rx="14" fill="#14111D" stroke="#3A3156" stroke-width="2"/>
+  <rect x="1" y="1" width="418" height="40" rx="14" fill="#1F1A2E"/>
+  <rect x="1" y="28" width="418" height="13" fill="#1F1A2E"/>
+  <circle cx="24" cy="21" r="5" fill="#E3BC72"/>
+  <circle cx="42" cy="21" r="5" fill="#B4A5F0"/>
+  <circle cx="60" cy="21" r="5" fill="#7FD8B5"/>
+  <text x="396" y="26" text-anchor="end" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13" fill="#8C86A8">status.txt</text>
+
+  <g font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="18">
+    <text x="30" y="80" fill="#B4A5F0">NAME</text>
+    <text x="30" y="108" fill="#B4A5F0">CLASS</text>
+    <text x="30" y="136" fill="#B4A5F0">LEVEL</text>
+    <text x="30" y="164" fill="#B4A5F0">GUILD</text>
+    <text x="30" y="192" fill="#B4A5F0">STATUS</text>
+
+    <text x="130" y="80" fill="#8C86A8">:</text>
+    <text x="130" y="108" fill="#8C86A8">:</text>
+    <text x="130" y="136" fill="#8C86A8">:</text>
+    <text x="130" y="164" fill="#8C86A8">:</text>
+    <text x="130" y="192" fill="#8C86A8">:</text>
+
+    <text x="152" y="80" fill="#E9E6F5">Matt</text>
+    <text x="152" y="108" fill="#E9E6F5">Developer</text>
+    <text x="152" y="136" fill="#E3BC72">Newbie</text>
+    <text x="152" y="164" fill="#E9E6F5">D3 TI</text>
+    <text x="152" y="192" fill="#7FD8B5">Learning</text>
+  </g>
+</svg>
