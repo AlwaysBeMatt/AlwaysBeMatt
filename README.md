@@ -16,7 +16,7 @@
   salin link gambarnya (berakhiran .gif), lalu hapus tanda komentar
   di sekitar baris di bawah dan ganti URL-nya.
 -->
-  <img src="https://tenor.com/view/mushoku-tensei-gif-19911957" alt="Anime GIF" />
+  <img src="(https://media1.tenor.com/m/kWGX4AZkn24AAAAd/mushoku-tensei.gif)" alt="Anime GIF" />
 
 
 </div>
