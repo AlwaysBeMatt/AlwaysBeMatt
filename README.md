@@ -136,6 +136,52 @@ quest_log:
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+<h2>Join My Party</h2>
+
+<div align="center">
+
+<i>Mau ngobrol soal coding, anime, atau mabar? Kirim pesan ke guild-ku!</i>
+
+<br/><br/>
+
+<a href="https://www.facebook.com/share/1FrQdUAuPB/">
+  <img src="https://img.shields.io/badge/Facebook-1F1A2E?style=for-the-badge&logo=facebook&logoColor=B4A5F0" alt="Facebook" />
+</a>
+<a href="https://discordapp.com/users/733961538666233897">
+  <img src="https://img.shields.io/badge/Discord-1F1A2E?style=for-the-badge&logo=discord&logoColor=7FD8B5" alt="Discord" />
+</a>
+<a href="https://www.linkedin.com/in/matthew-samosir-a481642b2">
+  <img src="https://img.shields.io/badge/LinkedIn-1F1A2E?style=for-the-badge&labelColor=1F1A2E&color=1F1A2E&logoColor=E3BC72" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center"><b>Facebook</b></td>
+<td align="center"><b>Discord</b></td>
+<td align="center"><b>LinkedIn</b></td>
+</tr>
+<tr>
+<td align="center"><a href="https://www.facebook.com/share/1FrQdUAuPB/">Matthew</a></td>
+<td align="center"><a href="https://discordapp.com/users/733961538666233897">Kirim DM</a></td>
+<td align="center"><a href="https://www.linkedin.com/in/matthew-samosir-a481642b2">Matthew Samosir</a></td>
+</tr>
+</table>
+
+<br/>
+
+<pre>
+contact_log:
+  - Sosial &amp; pertemanan   -> Facebook
+  - Ngobrol &amp; mabar       -> Discord
+  - Karier &amp; networking   -> LinkedIn
+</pre>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 <div align="center">
 
 <h3>Thanks for visiting my profile!</h3>
