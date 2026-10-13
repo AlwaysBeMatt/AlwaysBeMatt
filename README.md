@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="AlwaysBeMatt" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=B4A5F0&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+I'm+Matt;D3+Teknologi+Informasi+Student;Still+Learning%2C+Still+Leveling+Up;Web+%26+Mobile+Developer+in+the+making" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=B4A5F0&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+I'm+Matt;Still+Learning%2C+Still+Leveling+Up;Web+%26+Mobile+Developer+in+the+making" alt="Typing SVG" />
 
 <br/>
 
