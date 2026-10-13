@@ -140,8 +140,6 @@ quest_log:
 
 <div align="center">
 
-<i>Mau ngobrol soal coding, anime, atau mabar? Kirim pesan ke guild-ku!</i>
-
 <br/><br/>
 
 <a href="https://www.facebook.com/share/1FrQdUAuPB/">
